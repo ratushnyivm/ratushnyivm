@@ -11,24 +11,14 @@ You can click the Preview link to take a look at your changes.
  :) 
 
 <details>
-  <summary>##installing</summary>
+  #<summary>installing</summary>
     
   ### win
   тесттесттест
 </details>
 
 <details>
-  <summary>##brain_calc</summary>
-    
-  ### win
-  тесттесттест
-
-  ### loss
-  тесттесттест
-</details>
-
-<details>
-  <summary>##brain_even</summary>
+  <summary>brain_calc</summary>
     
   ### win
   тесттесттест
@@ -38,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details>
-  <summary>##brain_gcd</summary>
+  <summary>brain_even</summary>
     
   ### win
   тесттесттест
@@ -48,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details>
-  <summary>##brain_prime</summary>
+  <summary>brain_gcd</summary>
     
   ### win
   тесттесттест
@@ -58,7 +48,17 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details>
-  <summary>##brain_progression</summary>
+  <summary>brain_prime</summary>
+    
+  ### win
+  тесттесттест
+
+  ### loss
+  тесттесттест
+</details>
+
+<details>
+  <summary>brain_progression</summary>
     
   ### win
   тесттесттест
