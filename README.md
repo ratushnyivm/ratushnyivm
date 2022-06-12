@@ -10,6 +10,12 @@ You can click the Preview link to take a look at your changes.
 --->
  :) 
 
+<details>
+  <summary>installing</summary>
+    
+  ### win
+  тесттесттест
+</details>
 
 <details>
   <summary>brain_calc</summary>
