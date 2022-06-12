@@ -10,59 +10,58 @@ You can click the Preview link to take a look at your changes.
 --->
  :) 
 
-<#details>
+<details>
   <summary>installing</summary>
     
-  ### win
-  тесттесттест
+  ссылка
 </details>
 
 <details>
   <summary>brain_calc</summary>
     
   ### win
-  тесттесттест
+  ссылка
 
   ### loss
-  тесттесттест
+  ссылка
 </details>
 
 <details>
   <summary>brain_even</summary>
     
   ### win
-  тесттесттест
+  ссылка
 
   ### loss
-  тесттесттест
+  ссылка
 </details>
 
 <details>
   <summary>brain_gcd</summary>
     
   ### win
-  тесттесттест
+  ссылка
 
   ### loss
-  тесттесттест
+  ссылка
 </details>
 
 <details>
   <summary>brain_prime</summary>
     
   ### win
-  тесттесттест
+  ссылка
 
   ### loss
-  тесттесттест
+  ссылка
 </details>
 
 <details>
   <summary>brain_progression</summary>
     
   ### win
-  тесттесттест
+  ссылка
 
   ### loss
-  тесттесттест
+  ссылка
 </details>
