@@ -10,12 +10,53 @@ You can click the Preview link to take a look at your changes.
 --->
  :) 
 
+
 <details>
-  <summary>Тест</summary>
+  <summary>brain_calc</summary>
     
-  ### Тест
+  ### win
   тесттесттест
 
-  ### Тест
+  ### loss
+  тесттесттест
+</details>
+
+<details>
+  <summary>brain_even</summary>
+    
+  ### win
+  тесттесттест
+
+  ### loss
+  тесттесттест
+</details>
+
+<details>
+  <summary>brain_gcd</summary>
+    
+  ### win
+  тесттесттест
+
+  ### loss
+  тесттесттест
+</details>
+
+<details>
+  <summary>brain_prime</summary>
+    
+  ### win
+  тесттесттест
+
+  ### loss
+  тесттесттест
+</details>
+
+<details>
+  <summary>brain_progression</summary>
+    
+  ### win
+  тесттесттест
+
+  ### loss
   тесттесттест
 </details>
