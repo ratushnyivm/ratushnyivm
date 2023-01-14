@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Slava!</h1>
+<h2 align="center">Hi, I'm Slava!</h2>
 
 <p align="center">
   <b>My contacts:</b>
