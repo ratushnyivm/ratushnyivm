@@ -13,3 +13,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ratushnyyvm?theme=light&border=1&radius=10" alt="Leetcode Stats">
+</p>
