@@ -15,5 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ratushnyyvm?theme=light&border=1&radius=10" alt="Leetcode Stats">
+  <a href="https://leetcode.com/ratushnyyvm/">
+    <img src="https://leetcard.jacoblin.cool/ratushnyyvm?theme=light&border=1&radius=10" alt="Leetcode Stats">
+  </a>
 </p>
